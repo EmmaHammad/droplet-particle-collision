@@ -23,7 +23,7 @@
 /*
  * This Basilisk setup is intended to simulate the droplet-particle collision cases described in:
  * 
- * Physical review. 
+ * Physical Review E. 
  * Deformation and breakup of a liquid droplet past a solid circular cylinder: A lattice Boltzmann study.
  * Qiuxiang Li, 2014.
  * 
